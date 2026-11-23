@@ -8,3 +8,7 @@ gen2.
 gen2 installs:
 - gen
 - YHWH (the el(ectron) gui and shaddai tty interface)
+
+- **gen2** prints a line.
+- **Gen2** pipes that line to law for commentary.
+- **GEN2** is the English source. **LD GEN2** emits the lowercase program.

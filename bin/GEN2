@@ -1,0 +1,3 @@
+#!/usr/bin/env LD
+Implement gen2 as a shell program. It prints "And there was a second day."
+followed by a newline and exits successfully.

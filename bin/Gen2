@@ -1,0 +1,2 @@
+#!/bin/sh
+gen2 | law 'Give this line a one-line commentary.'
