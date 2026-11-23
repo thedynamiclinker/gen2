@@ -1,0 +1,2 @@
+#!/bin/sh
+printf '%s\n' 'And there was a second day.'
